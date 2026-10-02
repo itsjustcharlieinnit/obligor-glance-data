@@ -15,6 +15,10 @@ The files on this site are derived from the following sources. They are provided
 | EU Financial Sanctions (mirror), World Bank / AfDB / ADB / EBRD / IDB debarment lists | Compiled by [OpenSanctions](https://www.opensanctions.org) | **CC BY-NC 4.0**: non-commercial use only |
 | Country Risk Classifications | OECD | Public |
 | Worldwide Governance Indicators | World Bank | CC BY 4.0 |
+| High-risk and monitored jurisdictions | Financial Action Task Force | Public |
+| IMF lending arrangements, LIC debt sustainability ratings | IMF / World Bank | Public |
+| Country cover policy and indicators | UK Export Finance. © Crown copyright | OGL v3.0 |
+| Investment arbitration cases | ICSID | Public |
 | Legal Entity Identifiers | GLEIF | CC0 |
 | Companies, websites, industries, owners | Wikidata | CC0 |
 
