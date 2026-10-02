@@ -22,7 +22,7 @@ When you open a website (http/https), the extension reads **identity clues from 
 |---|---|---|
 | GLEIF (api.gleif.org) | Company names and LEIs to look up | When the extension can't identify a site from its own memory, and in background learning (registry pages by country, ownership links) |
 | Anthropic (api.anthropic.com) | The page clues and text sample above | **Only if you add your own API key**, and only when rules can't identify the company |
-| Your data feed URL | A request for the latest data files | Every 6 hours, **only if you set a feed URL** |
+| The data feed (by default itsjustcharlieinnit.github.io, or your own URL) | A request for the latest data files, with no information about you or your browsing | Every 6 hours |
 | Your shared-memory server (Supabase) | When you click *Confirm*, *This one* or *Wrong company?*: the website domain, the company ID/name/country/LEI, your vote, a salted hash of a random install ID, and an optional hashed team code. Periodically: a request to download verified links | **Only if you configure shared memory** |
 
 The extension never asks the shared-memory server about the site you are viewing. It downloads the full list of verified links, so the server cannot see your browsing.
