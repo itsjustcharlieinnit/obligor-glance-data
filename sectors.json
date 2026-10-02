@@ -1,0 +1,12 @@
+{
+  "energy":   { "label": "Oil, gas & power", "note": "Oil and gas is often targeted by country sanctions programs (e.g. Iran, Russia, Venezuela). Check where the cargo comes from, the vessels used and who is buying it." },
+  "mining":   { "label": "Mining & metals", "note": "Gold, diamonds and some minerals feature in sanctions on Sudan, DRC, CAR, Russia and Venezuela. Lenders and insurers often expect conflict-minerals due diligence (OECD guidance)." },
+  "shipping": { "label": "Shipping & logistics", "note": "Vessel ownership, flag and gaps in tracking data matter. Screen IMO numbers against designated vessels, including 'shadow fleet' designations." },
+  "transport":{ "label": "Transport & logistics", "note": "Check vessels, aircraft and freight routes against designated vessels and transit-country regimes." },
+  "finance":  { "label": "Banking & finance", "note": "Correspondent-banking exposure. Check for links to designated banks, money service businesses and exchange houses." },
+  "bank":     { "label": "Banking", "note": "Correspondent-banking exposure. Check for links to designated banks, money service businesses and exchange houses." },
+  "defence":  { "label": "Defence & dual-use", "note": "UN arms embargoes and export controls (e.g. the US BIS Entity List) apply. Export-control lists are not screened in this demo." },
+  "telecom":  { "label": "Telecoms & tech", "note": "Export controls on telecoms and dual-use equipment (e.g. the US Entity List) are not screened in this demo." },
+  "tech":     { "label": "Technology", "note": "Export controls on telecoms and dual-use equipment (e.g. the US Entity List) are not screened in this demo." },
+  "agri":     { "label": "Agriculture & commodities", "note": "Usually lower sanctions sensitivity. Watch timber, charcoal (UN Somalia ban) and sourcing from conflict zones." }
+}
